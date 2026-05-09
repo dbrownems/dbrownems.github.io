@@ -1,0 +1,22 @@
+# Bundler cache
+.bundle
+vendor
+Gemfile.lock
+
+# Jekyll cache
+.jekyll-cache
+.jekyll-metadata
+_site
+
+# RubyGems
+*.gem
+
+# npm
+node_modules
+package-lock.json
+*.log
+
+# Misc
+.DS_Store
+.idea/
+.vscode/
