@@ -5,7 +5,7 @@ categories: [SQL Server, SSRS]
 tags: [ssrs, report-builder, rdl, power-bi-report-server, rendering, ai-pairing]
 ---
 
-You have a beautiful PDF invoice template from your legacy system. You drop it into
+You have a PDF invoice template from your legacy system. You drop it into
 a Report Builder report as an image, drag a few textboxes on top to fill in the
 customer name and totals, and hit Run. The textboxes are nowhere near where
 you put them. They've slid down the page, *underneath* the image. You stare
